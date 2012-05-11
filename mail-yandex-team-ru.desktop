@@ -1,0 +1,21 @@
+[Desktop Entry]
+Name=Yandex Corporate Mail
+Name[ru]=Корпоративная почта Яндекса
+GenericName=Corporate Mail
+GenericName[ru]=Корпоративная почта
+X-GNOME-FullName=Mail and Calendar
+X-GNOME-FullName[ru]=Электронная почта и календарь
+Comment=Manage your email, contacts and schedule
+Comment[ru]=Ваша электронная почта, контакты и расписание
+Exec=firefox -new-tab http://mail.yandex-team.ru
+Icon=firefox
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Office;Email;Calendar;ContactManagement;X-Red-Hat-Base;
+StartupNotify=true
+X-GNOME-Bugzilla-Bugzilla=GNOME
+X-GNOME-Bugzilla-Product=Firefox
+X-GNOME-Bugzilla-Component=BugBuddyBugs
+X-GNOME-Bugzilla-Version=3.4.x
+X-GNOME-Bugzilla-OtherBinaries=e-addressbook-factory;e-calendar-factory
+MimeType=text/calendar;text/x-vcard;text/directory;application/mbox;message/rfc822;x-scheme-handler/mailto;
